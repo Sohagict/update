@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 15px;
+  background-color: #dddd;
+}
+
+img {
+  border-radius: 30px;
+  margin: 30px;
+  padding: 30px;
+  width: 600px;
+}
+
+footer {
+  background: #ffc0cb;
+  text-align: center;
+}
